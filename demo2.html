@@ -72,9 +72,9 @@
 				},
 				success: function (data) {
 					if(data.success){
-						$("#saveResult").html(data.msg);
+						$("#createResult").html(data.msg);
 					} else {
-						$("#saveResult").html("出现错误："+data.msg);
+						$("#createResult").html("出现错误："+data.msg);
 					}
 				},
 				error: function (err) {
