@@ -1,9 +1,12 @@
 # AJAX
 
-##Have already installed XAMPP
-##Create project file under /Applications/XAMPP/htdocs
-##Start XAMPP Apache Web Server
-##http://localhost/
+Have already installed XAMPP
+
+Create project file under /Applications/XAMPP/htdocs
+
+Start XAMPP Apache Web Server
+
+http://localhost/
 
 1. demo.php: not create json file
 2. demo2.php: create json file, for GET method, using jsonp to simulate cross-domain access
